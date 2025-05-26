@@ -18,10 +18,7 @@ Antes de começar, é essencial ter o **Node.js** instalado. Faça o download at
 ```bash
 # clonar repositório
   
-git clone https://github.com/SEU_USUARIO/exercicios1.git
-cd exercicios1
-
-# entrar na pasta do projeto GuiaDoMochileiro
+git clone https://github.com/SEU_USUARIO/ListaExercicios1.git
 cd ListaExercicios1
 
 # instalar dependências
