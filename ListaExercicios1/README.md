@@ -27,8 +27,8 @@ npm install prompt-sync
 # executar o projeto
 node exercicios1.js 
 
-# Retire o comentário da questão que deseja executar)
-```  
+node par_ou_impar.js
+
 
 📌 Conteúdo dos Exercícios
 🔹 Estruturas Condicionais
