@@ -1,5 +1,8 @@
 # 🚀 Exercícios de Lógica de Programação em JavaScript
 
+
+## Lista de Exercícios 2
+
 Este repositório contém uma série de exercícios de lógica de programação utilizando **JavaScript**, abordando conceitos fundamentais como estruturas de controle, loops e cálculos matemáticos.
 
 ## 📌 Tecnologias Utilizadas
