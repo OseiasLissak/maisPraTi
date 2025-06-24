@@ -29,9 +29,7 @@ cd exercicios2
 npm install prompt-sync
 
 # executar o projeto
-node exercicios1.js 
-
-node par_ou_impar.js
+node exercicios2.js 
 
 
 https://github.com/OseiasLissak/maisPraTi/tree/2c4a37a405162076c31f9cd3aea912e89e07ea3d/ListaExercicios2
