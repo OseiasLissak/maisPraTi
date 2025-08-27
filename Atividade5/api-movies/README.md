@@ -2,7 +2,7 @@
 
 <img width="1659" height="826" alt="image" src="https://github.com/user-attachments/assets/1aae8447-0d0b-4ee6-a56c-c40220e53da0" />
 
-<img width="456" height="884" alt="image" src="https://github.com/user-attachments/assets/40e2a59b-4b16-45bb-9e90-fe56dba8e8da" />
+<img width="220" height="442" alt="image" src="https://github.com/user-attachments/assets/40e2a59b-4b16-45bb-9e90-fe56dba8e8da" />
 
 
 Este projeto é uma aplicação web desenvolvida em React que permite buscar filmes, visualizar detalhes, favoritar e gerenciar uma lista de favoritos, consumindo dados da [API TMDB](https://www.themoviedb.org/).
