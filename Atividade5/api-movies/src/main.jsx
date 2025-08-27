@@ -15,7 +15,7 @@ import { FavoritesProvider } from './pages/components/FavoritesContext';
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/maisPraTi/Atividade5/api-movies/">
       <FavoritesProvider>
         <Routes>
           <Route element={<App/>}>
