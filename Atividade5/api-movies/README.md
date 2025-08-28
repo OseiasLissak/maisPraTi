@@ -5,7 +5,11 @@
 <img width="220" height="442" alt="image" src="https://github.com/user-attachments/assets/40e2a59b-4b16-45bb-9e90-fe56dba8e8da" />
 
 
+
 Este projeto é uma aplicação web desenvolvida em React que permite buscar filmes, visualizar detalhes, favoritar e gerenciar uma lista de favoritos, consumindo dados da [API TMDB](https://www.themoviedb.org/).
+
+## Deploy do Projeto
+https://topfilms-api.netlify.app/
 
 ## Funcionalidades
 
