@@ -89,7 +89,6 @@
     background-color: transparent;
     color: orange;
 }
-
 @media (max-width: 712px) {
   .title {
     font-size: 40px;
