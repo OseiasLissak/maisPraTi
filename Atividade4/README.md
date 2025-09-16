@@ -4,6 +4,9 @@
 
 Este repositório uma página profissional responsiva, utilizando HTML, CSS, Javascript e Boostrap.
 
+## Deploy 
+
+https://portfolio-oseias-lissak.netlify.app/#
 
 ## 🔧 Como Configurar e Executar
 
