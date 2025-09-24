@@ -1,2 +1,1 @@
-# repositorioAtividadesMaisPraTi
-# repositorioAtividadesMaisPraTi
+# atividades-mais-pra-ti
